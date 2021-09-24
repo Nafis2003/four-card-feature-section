@@ -2,6 +2,8 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
+Live preview: https://nafis2003.github.io/four-card-feature-section/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
