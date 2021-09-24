@@ -83,7 +83,7 @@ background: var(--orange);
 background: var(--blue);
 }
 
-.card h3{font-weight: 600;color:var(--very-dark-blue);}
+.card h2{font-size:1rem;font-weight: 600;color:var(--very-dark-blue);}
 
 .card p{font-size: 0.8rem;color: var(--grayish-blue);}
 
