@@ -33,7 +33,7 @@ main{max-width: 1200px; padding:2rem;}
 h1{font-size:1.5rem;font-weight:200;color: var(--very-dark-blue);}
 h1 span{ font-weight: 600;}
 #text p{
-max-width:700px;
+max-width:600px;
 margin: 0 auto;
 font-size:1rem; font-weight: 400; color: var(--grayish-blue); }
 
